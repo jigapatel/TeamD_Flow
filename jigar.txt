@@ -1,3 +1,19 @@
+
+team D
+jigar
+meghna tandel
+Harshvi Lad
+Urmi Patel
+jigar
+
+nidhi patel
+meghna tandel
+
+
 Jeenal
 vaghesh
+<<<<<<< HEAD
 Dhyey
+=======
+
+>>>>>>> 4001a6d5baf43ddda21e15218d250e457c50fc4c
